@@ -54,7 +54,7 @@ function Home() {
             transition: "background 0.3s ease",
           }}
         >
-          Clique aqui...
+          Presente Surpresa 🎁
         </button>
       ) : (
         <p
