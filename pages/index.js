@@ -66,8 +66,8 @@ function Home() {
             margin: "0 20px",
           }}
         >
-          Eu te amo mais do que palavras conseguem explicar.  
-          Você é a razão de cada sorriso ❤️
+          Eu te amo mais do que palavras conseguem explicar. Você é a razão de
+          cada sorriso ❤️
         </p>
       )}
     </div>
